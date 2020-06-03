@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Clicker/static/css/main.b01570af.chunk.css",
+    "main.js": "/React-Clicker/static/js/main.8c2cf7ac.chunk.js",
+    "main.js.map": "/React-Clicker/static/js/main.8c2cf7ac.chunk.js.map",
+    "runtime-main.js": "/React-Clicker/static/js/runtime-main.0757dc43.js",
+    "runtime-main.js.map": "/React-Clicker/static/js/runtime-main.0757dc43.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/React-Clicker/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.cc6d2fcb.chunk.js": "/React-Clicker/static/js/2.cc6d2fcb.chunk.js",
+    "static/js/2.cc6d2fcb.chunk.js.map": "/React-Clicker/static/js/2.cc6d2fcb.chunk.js.map",
+    "index.html": "/React-Clicker/index.html",
+    "precache-manifest.2292644694b363224ccf4549e1b45665.js": "/React-Clicker/precache-manifest.2292644694b363224ccf4549e1b45665.js",
+    "service-worker.js": "/React-Clicker/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/React-Clicker/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.b01570af.chunk.css.map": "/React-Clicker/static/css/main.b01570af.chunk.css.map",
+    "static/js/2.cc6d2fcb.chunk.js.LICENSE.txt": "/React-Clicker/static/js/2.cc6d2fcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0757dc43.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.cc6d2fcb.chunk.js",
+    "static/css/main.b01570af.chunk.css",
+    "static/js/main.8c2cf7ac.chunk.js"
+  ]
+}
